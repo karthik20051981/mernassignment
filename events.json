@@ -1,0 +1,27 @@
+[
+  {
+    "title": "Welcome Meetup",
+    "date": "2025-08-25",
+    "description": "Kickoff + roadmap for the semester."
+  },
+  {
+    "title": "HTML/CSS Bootcamp",
+    "date": "2025-09-02",
+    "description": "Hands-on layout & responsive design."
+  },
+  {
+    "title": "AI Agents 101",
+    "date": "2025-09-10",
+    "description": "Intro to building and evaluating agents."
+  },
+  {
+    "title": "Hack Night #1",
+    "date": "2025-09-18",
+    "description": "Team up and ship something small."
+  },
+  {
+    "title": "Demo Day",
+    "date": "2025-10-05",
+    "description": "Showcase projects and get feedback."
+  }
+]
